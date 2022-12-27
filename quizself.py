@@ -802,7 +802,7 @@ def computer18():
     else :
         print("Your Current Score is :",sc)
 
-    ieprint('\n')
+    print('\n')
     print("\rNext question - 3..\n", end = " ")
     time.sleep(1)
     print("\rNext question - 2...\n", end = " ")
