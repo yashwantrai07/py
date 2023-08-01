@@ -1,2 +1,2 @@
-- Hello I'm Yashwant Rai and currently I'm learning python.
-- This repository includes python code which is a 'Quiz Game' you must try it.
+- Hello, I'm Yashwant Rai and currently I'm learning Python.
+- This repository includes a Python project written by me.
