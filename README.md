@@ -1,2 +1,0 @@
-- Hello, I'm Yashwant Rai and currently I'm learning Python.
-- This repository includes a Python project written by me.
